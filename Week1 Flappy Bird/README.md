@@ -57,21 +57,3 @@ effect plays, the music should pause, and once the user presses P again, the gam
 cap it off, display a pause icon in the middle of the screen, nice and large, so as to make it clear the game is paused.</li>
 </ul>
 
-<h2 id="how-to-submit">How to Submit</h2>
-
-<ol>
-  <li>If you haven’t done so already, visit <a href="https://submit.cs50.io/invites/46e6f2ea29954ce9bb1bdc478a440055">this link</a>, log in with your GitHub account, and click <strong>Authorize cs50</strong>. Then, check the box indicating that you’d like to grant course staff access to your submissions, and click <strong>Join course</strong>.</li>
-  <li>
-    <p>Using <a href="https://git-scm.com/downloads">Git</a>, push your work to <code class="highlighter-rouge">https://github.com/me50/USERNAME.git</code>, where <code class="highlighter-rouge">USERNAME</code> is your GitHub username, on a branch called <code class="highlighter-rouge">games50/assignments/2020/x/1</code> or, if you’ve installed <a href="https://cs50.readthedocs.io/submit50/"><code class="highlighter-rouge">submit50</code></a>, execute</p>
-
-	submit50 games50/assignments/2020/x/1
-
-  </li>
-  <li><a href="https://www.howtogeek.com/205742/how-to-record-your-windows-mac-linux-android-or-ios-screen/">Record a 1- to 5-minute screencast</a> in which you demonstrate your app’s functionality and/or walk viewers through your code. <a href="https://www.youtube.com/upload">Upload that video to YouTube</a> (as unlisted or public, but not private) or somewhere else.</li>
-  <li><a href="https://forms.cs50.io/083e7ac4-e2b5-4060-809d-8cf71136bf41">Submit this form</a>.</li>
-</ol>
-
-<p>You can then go to <a href="https://cs50.me/cs50g">https://cs50.me/cs50g</a> to view your current progress!</p>
-
-
-
