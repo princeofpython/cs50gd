@@ -55,4 +55,4 @@ You can then go to [https://cs50.me/cs50g](https://cs50.me/cs50g) to view your c
 
 </div>
 
-## [My Submission](https://youtu.be/dHCcXQDdlCI)
+## [My Submission (YouTube)](https://youtu.be/dHCcXQDdlCI)
